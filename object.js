@@ -7,3 +7,4 @@ const myPhone = {
 
 myPhone.make // "iPhone"
 myPhone.lenses // 3
+
